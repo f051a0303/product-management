@@ -1,0 +1,10 @@
+// Name: Chi Ming Lai
+// Seneca Student ID: 158400200
+// Seneca email: cmlai@myseneca.ca
+// Date of completion: 24-07-2022
+// Section: ZAA
+
+---------OOP345 project reflection------------
+
+
+The comments are written inside the source code.
