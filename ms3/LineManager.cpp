@@ -1,10 +1,4 @@
-// Name: Chi Ming Lai
-// Seneca Student ID: 158400200
-// Seneca email: cmlai@myseneca.ca
-// Date of completion: 22-07-2022
-//
-// I confirm that I am the only author of this file
-//   and the content was created entirely by me.
+
 #include "LineManager.h"
 
 namespace sdds {
